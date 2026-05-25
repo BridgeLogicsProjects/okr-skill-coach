@@ -1,7 +1,3 @@
-# okr-skill-coach
-A Claude skill that coaches product leaders to write, stress-test, and deliver OKRs that measure outcomes not just outputs. Built by Keeya Wang-Jones, drawing from OKR Mentors, Silicon Valley Product Management, and 25 years of product leadership experience.
-
-
 # OKR Coach — A Claude Skill
 
 A coaching skill for Claude that helps product leaders, teams, and individuals write, validate, and stress-test OKRs that actually deliver value.
